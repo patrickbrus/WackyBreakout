@@ -1,0 +1,2 @@
+paddleMoveUnitsPerSecond; ballImpulseForce;DeathTimeBall;minSpwanSeconds;maxSpwanSeconds;StandardBoxWorth;BonuxBoxWorth;PickupBoxWorth;p_standard;p_bonus;p_freezer;p_speedup;numberBalls;freezerEffectDuration;speedupEffectDuration;speedupEffectSpeed
+15;200;10;5;10;10;35;15;0.45;0.10;0.20;0.25;7;2;2;2
